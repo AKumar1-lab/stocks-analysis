@@ -1,7 +1,7 @@
 # VBA of WallStreet
 https://github.com/AKumar1-lab/stocks-analysis
-Performing analysis on Green Stocks using VBA - Module 2
-## Overview of Project: 
+## Performing analysis on Green Stocks using VBA - Module 2
+### Overview of Project: 
 Exploring green energy stock performance by analyzing financial data using VBA in Excel.
 ### Purpose
 Visual Basic for Applications (VBA) is the purpose of creating macro and the fundamentals of coding. VBA provides essentially infinite extensibility to Excel. Using code to automate routine tasks decreases the chance of errors and reduces the time needed to run analyses.
@@ -12,7 +12,7 @@ Visual Basic for Applications (VBA) is the purpose of creating macro and the fun
   •	Apply coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging.
 The first part was to create a workbook that analyzed the entire dataset, that was easy for Steve to analyze.  
 The second part was create a workbook that refactored the workbook to make the code run faster.
-# Results: 
+## Results: 
  
 ![image](https://user-images.githubusercontent.com/85860367/124421977-66959f00-dd17-11eb-91cd-be2e6118edb9.png)
 
